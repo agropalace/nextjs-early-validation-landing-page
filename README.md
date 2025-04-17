@@ -1,110 +1,110 @@
-
 # 🌾 Agro Palace
 **Early Validation Landing Page**
 
-Agro Palace será una plataforma diseñada para comprar o vender productos agrícolas. Este proyecto busca validar el interés de los usuarios en el mercado agrícola digital, conectando compradores y vendedores de manera eficiente.
+Agro Palace will be a platform designed for buying or selling agricultural products. This project seeks to validate user interest in the digital agricultural market, efficiently connecting buyers and sellers.
 
 ---
 
-## 📖 Descripción del Proyecto
-Este repositorio contiene el código de una landing page creada con **Next.js**. Su objetivo es recopilar datos clave de los usuarios que desean:
-- Vender sus productos agrícolas.
-- Comprar productos directamente de agricultores.
+## 📖 Project Description
+This repository contains the code for a landing page created with **Next.js**. Its objective is to collect key data from users who want to:
+- Sell their agricultural products.
+- Buy products directly from farmers.
 
-La información recopilada será utilizada para validar la idea de negocio y mejorar la experiencia del usuario en el futuro.
-
----
-
-## 🚀 Características
-- **Formulario interactivo**: Permite a los usuarios registrar sus datos de contacto y preferencias.
-- **Diseño responsivo**: Optimizado para dispositivos móviles y escritorio.
-- **Validación de datos**: Asegura que los campos sean llenados correctamente antes de ser enviados.
-- **Integración con un backend (opcional)**: Envía los datos a una API para almacenarlos.
+The information collected will be used to validate the business idea and improve the user experience in the future.
 
 ---
 
-## 🛠️ Tecnologías Utilizadas
-- **Next.js**: Framework para React, optimizado para server-side rendering.
-- **Tailwind CSS**: Para estilos rápidos y modernos.
-- **TypeScript**: Asegura tipado estático para prevenir errores.
-- **Vercel**: (Opcional) Para despliegue rápido y escalable.
+## 🚀 Features
+- **Interactive form**: Allows users to register their contact information and preferences.
+- **Responsive design**: Optimized for mobile and desktop devices.
+- **Data validation**: Ensures fields are filled out correctly before being submitted.
+- **Backend Integration (Optional)**: Sends data to an API for storage.
 
 ---
 
-## 📦 Estructura del Proyecto
+## 🛠️ Technologies Used
+- **Next.js**: Framework for React, optimized for server-side rendering.
+- **Tailwind CSS**: For fast, modern styles.
+- **TypeScript**: Ensures static typing to prevent errors.
+- **Vercel**: (Optional) For rapid and scalable deployment.
+
+---
+
+## 📦 Project Structure
 
 ```
 Agro-Palace/
-├── public/           # Archivos estáticos (imágenes, íconos)
+├── public/ # Static files (images, icons)
 ├── src/
-│   ├── components/   # Componentes reutilizables
-│   ├── pages/        # Páginas de Next.js
-│   │   ├── index.tsx # Página principal
-│   │   └── api/      # Endpoints API opcionales
-│   ├── styles/       # Estilos personalizados (CSS o Tailwind)
-│   └── utils/        # Utilidades y helpers
-├── README.md         # Este archivo
-├── package.json      # Dependencias del proyecto
-└── tsconfig.json     # Configuración de TypeScript
+│ ├── components/ # Reusable components
+│ ├── pages/ # Next.js pages
+│ │ ├── index.tsx # Main page
+│ │ └── api/ # Optional API endpoints
+│ ├── styles/ # Custom styles (CSS or Tailwind)
+│ └── utils/ # Utilities and helpers
+├── README.md # This file
+├── package.json # Project Dependencies
+└── tsconfig.json # TypeScript Configuration
 ```
 
 ---
 
-## 📋 Requisitos Previos
-Asegúrate de tener instalado:
-- **Node.js** (versión 16 o superior).
-- **Git** para clonar el repositorio.
+## 📋 Prerequisites
+Make sure you have installed:
+- **Node.js** (version 16 or higher).
+- **Git** to clone the repository.
 
 ---
 
-## ⚡ Cómo Empezar
+## ⚡ How to Get Started
 
-1. **Clona el Repositorio**
-   ```bash
-   git clone https://github.com/tuusuario/agro-palace.git
-   cd agro-palace
-   ```
+1. **Clone the Repository**
+```bash
+git clone https://github.com/youruser/agro-palace.git
+cd agro-palace
+```
 
-2. **Instala las Dependencias**
-   ```bash
-   npm install
-   ```
+2. **Install Dependencies**
+```bash
+npm install
+```
 
-3. **Ejecuta el Proyecto en Local**
-   ```bash
-   npm run dev
-   ```
-   Abre [http://localhost:3000](http://localhost:3000) en tu navegador.
+3. **Run the Project Locally**
+```bash
+npm run dev
+```
+Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-4. **(Opcional) Despliega en Vercel**
-   - Conéctalo a tu cuenta de Vercel y sigue las instrucciones para desplegar automáticamente.
-
----
-
-## 🖌️ Colaboración
-
-¡Todas las contribuciones son bienvenidas!
-Para contribuir:
-1. Haz un fork del proyecto.
-2. Crea una rama con tu característica o corrección:
-   ```bash
-   git checkout -b nombre-de-la-rama
-   ```
-3. Realiza tus cambios y haz un commit:
-   ```bash
-   git commit -m "Descripción breve del cambio"
-   ```
-4. Envía un Pull Request (PR) para revisión.
+4. **(Optional) Deploy to Vercel**
+- Connect to your Vercel account and follow the instructions to deploy automatically.
 
 ---
 
-## 📄 Licencia
+## 🖌️ Collaboration
 
-Este proyecto está bajo la licencia [MIT](LICENSE). Siéntete libre de usarlo, modificarlo y compartirlo.
+All contributions are welcome!
+To contribute:
+1. Fork the project.
+
+2. Create a branch with your feature or fix:
+```bash
+git checkout -b branch-name
+```
+3. Make your changes and commit:
+```bash
+git commit -m "Brief description of change"
+```
+4. Submit a Pull Request (PR) for review.
 
 ---
 
-## ✨ Contacto
+## 📄 License
 
-- **Correo**: manuelcarbajal4@gmail.com
+This project is licensed under the [MIT](LICENSE). Feel free to use, modify, and share it.
+
+---
+
+## ✨ Contact
+
+- **Email**: manuelcarbajal4@gmail.com
 - **GitHub**: [mcarbajalc2](https://github.com/mcarbajalc2)
